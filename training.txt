@@ -1,4 +1,5 @@
 gas
+<<<<<<< HEAD
 Poomin
 mo
 mo
@@ -6,3 +7,9 @@ Assada Chorraka
 Poomin
 gas
 mo
+=======
+mo
+sorachat
+mo
+Assada Chorraka
+>>>>>>> 3dd526958cefb47dac8c3a83f935872291b9bf0d
