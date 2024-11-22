@@ -1,0 +1,6 @@
+Hello asdasd
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> training/Poomin
